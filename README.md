@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C
 - 📫 How to reach me: via my LinkedIn!
 
-Link to [LinkedIn](www.linkedin.com/in/gulceapaydin/)
+Link to [LinkedIn](https://www.linkedin.com/in/gulceapaydin/)
 <!--
 **gcc4p/gcc4p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
