@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 😄 Pronouns: she/her
-- 🌱 I’m interested in AI/ML
-- 📫 How to reach me: via my LinkedIn!
+- 🌱 Check out some projects below!
+- 📫 How to reach me: via my LinkedIn
 
 Link to [LinkedIn](https://www.linkedin.com/in/gulceapaydin/)
 <!--
