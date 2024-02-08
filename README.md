@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there
 
-- 😄 Pronouns: she/her
-- 🌱 Check out some projects below!
-- 📫 How to reach me: via my LinkedIn
+- Check out some projects below!
+- How to reach me: via my LinkedIn
 
 Link to [LinkedIn](https://www.linkedin.com/in/gulceapaydin/)
 <!--
