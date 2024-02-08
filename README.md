@@ -1,4 +1,4 @@
-### Hi there
+### Hi there :D
 
 - Check out some projects below!
 - How to reach me: via my LinkedIn
