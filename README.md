@@ -1,4 +1,4 @@
-# Hey There :D
+# Hey there :D
 Check out some of my work below!<br>Don't hesitate to reach out via my LinkedIn.
 
 
