@@ -7,7 +7,6 @@ Check out some of my work below!<br>Don't hesitate to reach out via my LinkedIn.
 
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=gcc4p&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gcc4p&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gcc4p&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
